@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Humerus"
+date:   2018-09-09 10:40:12 -0500
+categories: projects
+permalink: 
+---
+
+Details and photos
