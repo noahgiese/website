@@ -11,5 +11,5 @@ This is my first 3D project while in medical school. I am studying anatomy and w
 ![](/assets/posts/humerus-1.jpg)
 
 3D Printing Information:
-The model was found on ThingVerse by user: <here>.  
+The model was found on ThingVerse by user: NAME goes HERE.  
 Orange PLA using standard settings printed longitudinally. Improvements would be to use adaptive layering to prevents obvious step offs in the xy axis. Epiphysis are sufficiently smooth to the touch, but the diaphysis are not.
