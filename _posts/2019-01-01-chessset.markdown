@@ -6,4 +6,4 @@ categories: projects
 permalink:
 ---
 
-![chess set](/website/assets/posts/IMG_8207.png "A chess set christmas present for a family friend")
+![chess set](/website/assets/posts/IMG_8207.jpg "A chess set christmas present for a family friend")
