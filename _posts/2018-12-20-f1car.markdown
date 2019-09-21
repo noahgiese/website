@@ -3,8 +3,13 @@ layout: post
 title:  "F1 Car"
 date:   2018-12-20 10:40:12 -0500
 categories: projects
-permalink: 
+permalink:
 ---
 
-Details and photos
-updated car
+F1 cars are some of the fastest land vehicles that utilize aerodynamics, testing simulations, and an expert user. A perfect combination of engineering and human ability.
+
+![](/website/assets/posts/f1_chasis_1.jpg)
+![](/website/assets/posts/f1_body_1.jpg)
+![](/website/assets/posts/f1_finished_1.jpg)
+![](/website/assets/posts/f1_finished_2.jpg)
+![](/website/assets/posts/f1_motor.jpg)

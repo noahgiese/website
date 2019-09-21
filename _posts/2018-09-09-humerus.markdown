@@ -8,17 +8,9 @@ permalink:
 
 This is my first 3D project while in medical school. I am studying anatomy and wanted a way to manipulate a anatomically accurate specimen.
 
-![12](https://github.com/noahgiese/website/blob/gh-pages/assets/posts/humerus-1.jpg)
-![34](/website/assets/posts/humerus-1.jpg)
-![56](/assets/posts/humerus-1.png)
 
-![words](https://en.wikipedia.org/wiki/Kitten#/media/File:Kitten_in_Rizal_Park,_Manila.jpg "title here")
+![humerus](/website/assets/posts/humerus-1.jpg "A 3D printed humerus with a novel fixation device for compound long bone fractures")
 
-<img src="https://en.wikipedia.org/wiki/Kitten#/media/File:Kitten_in_Rizal_Park,_Manila.jpg" alt "stuff">
-
-Testing
-
-![puppy1](/website/puppy.png)
 
 
 3D Printing Information:

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Veroni Chess Set"
+date:   2019-01-11 10:40:12 -0500
+categories: projects
+permalink:
+---
+
+![chess set](/website/assets/posts/IMG_8207)
