@@ -8,7 +8,7 @@ permalink:
 
 This is my first 3D project while in medical school. I am studying anatomy and wanted a way to manipulate a anatomically accurate specimen.
 
-![](../assets/posts/humerus-1.jpg)
+![](https://github.com/noahgiese/website/blob/gh-pages/assets/posts/humerus-1.jpg)
 
 3D Printing Information:
 The model was found on ThingVerse by user: NAME goes HERE.  
