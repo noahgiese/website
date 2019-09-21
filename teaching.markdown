@@ -9,4 +9,4 @@ order: 4
 
 * Teaching Assistant CH 204 Introduction to Chemical Practice for Dr. Zuzana Baranova, Fall 2017<br />
 
-* Lifegaurd Instructor at UT Austin Recsports, 2015-2016
+* Lifeguard Instructor at UT Austin Recsports, 2015-2016
