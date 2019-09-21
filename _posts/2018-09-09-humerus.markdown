@@ -9,7 +9,7 @@ permalink:
 This is my first 3D project while in medical school. I am studying anatomy and wanted a way to manipulate a anatomically accurate specimen.
 
 ![12](https://github.com/noahgiese/website/blob/gh-pages/assets/posts/humerus-1.jpg)
-![34](/assets/posts/humerus-1.jpg)
+![34](/website/assets/posts/humerus-1.jpg)
 ![56](/assets/posts/humerus-1.png)
 
 ![words](https://en.wikipedia.org/wiki/Kitten#/media/File:Kitten_in_Rizal_Park,_Manila.jpg "title here")
@@ -19,7 +19,7 @@ This is my first 3D project while in medical school. I am studying anatomy and w
 Testing
 
 ![puppy1](/website/puppy.png)
-![puppy3](/puppy.png)
+
 
 3D Printing Information:
 The model was found on ThingVerse by user: NAME goes HERE.  
