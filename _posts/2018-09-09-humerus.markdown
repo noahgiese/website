@@ -3,7 +3,13 @@ layout: post
 title:  "Humerus"
 date:   2018-09-09 10:40:12 -0500
 categories: projects
-permalink: 
+permalink:
 ---
 
-Details and photos
+This is my first 3D project while in medical school. I am studying anatomy and wanted a way to manipulate a anatomically accurate specimen.
+
+![alt text](/assests/posts/humerus_1.jpg)
+
+3D Printing Information:
+The model was found on ThingVerse by user: <here>.  
+Orange PLA using standard settings printed longitudinally. Improvements would be to use adaptive layering to prevents obvious step offs in the xy axis. Epiphysis are sufficiently smooth to the touch, but the diaphysis are not.
